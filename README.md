@@ -20,7 +20,9 @@ If you want to reach out, you can find my linkedIn profile [here](https://www.li
 
 ### My projects
 
-* [simple security groups](https://github.com/ninjaMog/simplesecuritygroups) -  Although now very redundant thanks to excellent "Infrastructure as Code" (IaC) tooling like Terraform,  was a handy little tool I created to help remove the tedium of writing out Cloudformation security group rules when working at Orange Digital as a Cloud Engineer 10 years ago in the early days of AWS!
+* [simple security groups](https://github.com/ninjaMog/simplesecuritygroups) -  This was a handy little tool I enjoyed creating to help remove the tedium of writing out Cloudformation security group rules when working at Orange Digital as a Cloud Engineer 10 years ago in the early days of AWS!  
+
+  It's now very redundant thanks to excellent "Infrastructure as Code" (IaC) tooling like [Terraform](https://www.terraform.io/) (Thank goodness! 😄)
 
 ### My forks
 
